@@ -4,6 +4,9 @@ accent:
 background:
   top: "#292e42"
   bottom: "#171928"
+background_image:
+  path: ./wallpapers/3840x2160.png
+  opacity: 12
 foreground: "#ebfafa"
 details: "darker"
 terminal_colors:
